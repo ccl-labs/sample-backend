@@ -4,7 +4,7 @@ metadata:
   name: sample-backend
   description: FastAPI + PostgreSQL によるサンプル API
   annotations:
-    github.com/project-slug: okccl/sample-backend
+    github.com/project-slug: ccl-labs/sample-backend
   tags:
     - python
     - fastapi
